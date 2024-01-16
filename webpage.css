@@ -1,0 +1,85 @@
+header{ 
+    position: fixed;
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    margin: none;
+    z-index: 2;
+    padding-right: 60px;
+
+
+}
+#ama2{
+    color: rgb(249, 171, 15);
+    font-weight: 20px;
+    font-size: xx-large;
+}
+
+.ama1{
+    color: rgb(212, 216, 220);
+    padding-right: 150px;
+     text-decoration: none;
+ width: 120px;
+ height: 10px;
+
+
+}
+
+button{
+    background-color: rgb(249, 171, 15);
+    color: rgb(212, 216, 220);
+}
+
+
+main,div{
+    display: inline-block;
+    color: white;
+    
+    
+}
+
+
+
+pre{
+    font-variant: normal;
+    font-size: medium;
+    text-transform: capitalize;
+}
+
+/* ul{ 
+    width: 300px;
+    height: 200px;
+    padding:200px;
+
+    
+
+    
+}
+ */
+
+ .electronics{
+
+    margin-right:30px ;
+
+    
+    
+    
+ }
+  
+
+ .clothing{
+    margin-right: 30px;
+
+ }
+
+ .home{
+    margin-right: 30px;
+ }
+
+ main{
+    background-image:url('https://c8.alamy.com/comp/RNBH1G/paris-france-sep-28-2018-directly-above-view-of-new-amazon-cardboard-box-against-yellow-background-amazon-prime-is-the-online-paid-subscription-service-offered-by-amazoncom-web-commerce-site-sad-angly-smile-logo-RNBH1G.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;
+    z-index: -1;
+ }
